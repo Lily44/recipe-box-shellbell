@@ -1,4 +1,4 @@
-name = "recipe-box-app-shellbell"
+name = "recipe-box-shellbell"
 main = "src/index.js"
 compatibility_date = "2026-07-01"
 
