@@ -1,0 +1,11 @@
+name = "recipe-box-api-shellbell"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "recipe-box-db-shellbell"
+
+[[r2_buckets]]
+binding = "PHOTOS"
+bucket_name = "recipe-box-photos-shellbell"
